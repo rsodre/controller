@@ -218,6 +218,7 @@ export function CollectionAsset() {
                   ...collection.imageUrls,
                   placeholder,
                 ]}
+                title=""
                 size="lg"
                 className="w-full self-center mt-0.5"
               />

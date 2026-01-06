@@ -227,6 +227,7 @@ export function CollectibleAsset() {
             >
               <CollectiblePreview
                 images={[...asset.imageUrls, placeholder]}
+                title=""
                 size="lg"
                 className="w-full self-center"
               />
